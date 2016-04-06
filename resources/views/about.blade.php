@@ -111,9 +111,9 @@ Courses on Dexpose.com will be available free of charge to users. But <span clas
 						<li><a href="http://kennethetal.com">&copy; 2016 Kennethetal &nbsp;</a></li>
 						<li><a href="/home">Home</a></li>
 						<li><a href="/toc">Course Contents</a></li>
-						<li><a href="">Term & Conditions for Collaboration</a></li>
-						<li><a href="">Privacy Policy</a></li>
-						<li><a href="">User notes </a></li>
+						<li><a href="/collaboration">Term & Conditions for Collaboration</a></li>
+						<!--<li><a href="">Privacy Policy</a></li>
+						<li><a href="">User notes </a></li>-->
     				
     				</ul>
     			</nav>

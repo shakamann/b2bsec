@@ -41,5 +41,6 @@ Route::group(['middleware' => 'web'], function () {
     Route::get('/home', 'HomeController@index');
     Route::get('/toc', 'tocController@index');
     Route::get('/about', 'aboutController@index');
+    Route::get('/collaboration', 'collaborationController@index');
     Route::get('/certificate', 'LinkToCertificateController@index');
 });

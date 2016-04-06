@@ -8,7 +8,7 @@
                 <div class="panel-heading">Login</div>
                 <div class="panel-body">
 				                    This is an idea based webpage and contents are confidential. Only visible to visitors who have been issued access credentials by the author kindly contact <i>principal@kennethetal.com</i> for access credentials. <br>
-	<div class="spacer"></div>
+					<div class="spacer"></div>
 
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/login') }}">
                         {!! csrf_field() !!}

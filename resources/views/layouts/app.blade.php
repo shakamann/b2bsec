@@ -39,7 +39,7 @@
 			</div>
 			<div class="col-md-4">
 			<ul class="nav navbar-nav navbar-right">
-				  <li role="presentation"><a href="/login">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-sign-in"></i> Login</a></li>
+				  <!--<li role="presentation"><a href="/login">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-sign-in"></i> Login</a></li>-->
 				</ul>
 			
 			</div>

@@ -147,9 +147,9 @@
     				<ul class="breadcrumb">
 						<li><a href="http://kennethetal.com">&copy; 2016 Kennethetal &nbsp;</a></li>
 						<li><a href="/toc">Course Contents</a></li>
-						<li><a href="">Term & Conditions for Collaboration</a></li>
-						<li><a href="">Privacy Policy</a></li>
-						<li><a href="">User notes </a></li>
+						<li><a href="/collaboration">Term & Conditions for Collaboration</a></li>
+						<!--<li><a href="">Privacy Policy</a></li>
+						<li><a href="">User notes </a></li>-->
     				
     				</ul>
     			</nav>
