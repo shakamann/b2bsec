@@ -115,7 +115,7 @@
 					<li>We will require a consultancy fee of USD350, 000.00(negotiable) made payable to bank account information provided by Kennethetal. Such consultancy fee will serve to show Alibaba's commitment to the dexpose project and will help the firm discharge outstanding debts to field researches, as well as maintain an enabling environment for reporting from Nigeria (home country of kennethetal) by field researchers during the course of the project in China or other region chosen by Alibaba.</li>
 					<li>All expenses related to staff from Nigeria resident in project location will be borne by Alibaba.</li>
 					<li>Dexpose online training is planned as a free course, but sizable income is expected from Learners (especially sales personnel) who will require certification as a proof of concept to their Employers that they have enough information to protect the interest of the Company from international cross border email scam.</li>
-					<li>We hereby state that we will keep 50% of all payments for Certificates. This will help keep Kennethetal motivated and ensure that dexpose.com is a financial success for everyone at the firm.</li>
+					<li>We hereby state that we will keep 50%(negotiable) of all payments for Certificates. This will help keep Kennethetal motivated and ensure that dexpose.com is a financial success for everyone at the firm.</li>
 				</ul> 
 						
 
