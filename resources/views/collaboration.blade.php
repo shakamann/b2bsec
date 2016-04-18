@@ -103,10 +103,11 @@
 				<h3>Conditions</h3>
 				<h4><i>- Alibaba</i></h4>
 				<ul class="conditions">
-					<li>Staffing: To make available Software Development Resource Personnel For development of the course. (At least 2 User Interface Designers and 2 App Developers) with Knowledge of the edx open source MOOC Platform or a viable alternative.</li>
-					<li>Provide Studio Infrastructure for recording of HTML5 Video Lessons.</li>
+					<li>Optional Staffing: To make available Software Development Resource Personnel For development of the course. (At least 2 User Interface Designers and 2 App Developers) with Knowledge of the edx open source MOOC Platform or a viable alternative.</li>
+					<li>Provide Studio Infrastructure for recording of Video Lessons for HTML5 browsers.</li>
 					<li>Assist Personnel from Kennethetal in Securing Visa to China or other Region where Alibaba operates offices for the Project timeline, together with accommodation and upkeep for the period. (about 4 personnel)</li>
 					<li><span class="highlight" >Note: </span>All Kennethetal Staff will come from Nigeria.</li>
+					<li>Marketing and Advertising the course: Disseminate information about the course to users on the Alibaba website</li>
 				</ul> 
 			<!-- Financial Terms -->
 				<h3>Financial Terms</h3>
