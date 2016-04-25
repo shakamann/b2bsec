@@ -56,6 +56,7 @@
 		</ul>
 		</div>
 	</section>
+	
 	<div class="spacer2"></div>
 	<section class="sec2 bckg3">
 		<div class="container">
@@ -73,58 +74,7 @@
 			</div>
 			<div class="row">
 			<div class="col-md-8">
-			<!-- Introduction -->
-				<h3>Introduction</h3>
-				<p>Dexpose is being planned as a collaborative effort between Alibaba and the project initiators at Kennethetal.  In this document, we describe the conditions for collaboration, having identified the tasks in the delineated list below (Subject to review). We also explain the terms that will make Dexpose the success story that we desire</p>
-
-				<p>This Collaboration will help ensure that the dexpose course is developed with Alibaba business goals in mind so as not to undermine already ongoing security efforts by Alibaba but to emphasize them. For example lay emphasis on the use of escrow services</p>
-			<!-- Tasks -->
-				<h3>Tasks</h3>
-				<h4><i>- Kennethetal</i></h4>
-				<ul>
-					<li>Continuous research for identification and publishing of threat profiles (Loop holes exploited by fraudsters)</li>
-					<li>Develop course content and present to Alibaba for approval, review and development </li>
-					<li>Staffing: 1 Project Director, 1 Software Developer, 1 UI designer and 2 Project Office Assistants</li>
-					<li></li>
-				</ul>
-				<h4><i>- Alibaba</i></h4>
-				<ul>
-					<li>Identify Other Framework for development </li>
-					<li>UI and Application Development  </li>
-					<li>Project Financing</li>
-				</ul>
-				<h4><i>- Combined Tasks (Alibaba and Kennethetal</i></h4>
-				<ul>
-					<li>Overall Project Direction </li>
-					<li>Application Development  </li>
-					<li>Project Research</li>
-				</ul>
-			<!-- Conditions -->
-				<h3>Conditions</h3>
-				<h4><i>- Alibaba</i></h4>
-				<ul class="conditions">
-					<li>Optional Staffing: To make available Software Development Resource Personnel For development of the course. (At least 2 User Interface Designers and 2 App Developers) with Knowledge of the edx open source MOOC Platform or a viable alternative.</li>
-					<li>Provide Studio Infrastructure for recording of Video Lessons for HTML5 browsers.</li>
-					<li>Marketing and Advertising the course: Following course development, Disseminate information about the course to users on the Alibaba website</li>
-					<li>Assist Personnel from Kennethetal in Securing Visa to China or other Region where Alibaba operates offices for the Project timeline, together with accommodation and upkeep for the period. (about 4 personnel)</li>
-					<li><span class="highlight" >Note: </span>All Kennethetal Staff will come from Nigeria.</li>
-				</ul> 
-			<!-- Financial Terms -->
-				<h3>Financial Terms</h3>
-				<h4><i>- Alibaba</i></h4>
-				<ul class="ft">
-					<li>We will require a consultancy fee of USD350, 000.00(negotiable) made payable to bank account information provided by Kennethetal. Such consultancy fee will serve to show Alibaba's commitment to the dexpose project and will help kennethetal discharge outstanding debts to field researches, as well as maintain an enabling environment for reporting from Nigeria (home country of kennethetal) by field researchers during the course of the project in China or other region chosen by Alibaba. A great incentive for the project</li>
-					<li><span class="highlight" >Note: </span> Upon payment of the consultancy fee, Alibaba will receive a White Paper from Kennethetal on the Subject Matter of; <i>"Email Security Awareness for B2b Transactions"</i>.</li>
-					<li>All expenses related to staff from Nigeria resident in project location will be borne by Alibaba.</li>
-					<li>Dexpose online training is planned as a free course, but income is expected from Learners (especially sales personnel) who will require certification as a proof of concept to their Employers that they have enough information to protect the interest of the Company from international cross border email scam.</li>
-					<li>We hereby state that we will keep 60%(negotiable) of all payments for Certificates. This will help keep Kennethetal motivated and ensure that dexpose.com is a financial success for everyone at the firm.</li>
-				</ul> 
-						
-
-
-
-
-
+			
 			</div>	
 			<div class="col-md-4">
 				
@@ -154,6 +104,7 @@
     		</footer>
     	</div>
     </section>
+	
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
